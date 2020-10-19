@@ -1,0 +1,9 @@
+k-nearest neighbor algorithm:
+
+This algorithm is used to solve the classification model problems. K-nearest neighbor or K-NN algorithm basically creates an imaginary boundary to classify the data. When new data points come in, the algorithm will try to predict that to the nearest of the boundary line.
+
+Therefore, larger k value means smother curves of separation resulting in less complex models. Whereas, smaller k value tends to overfit the data and resulting in complex models.
+
+Note: It’s very important to have the right k-value when analyzing the dataset to avoid overfitting and underfitting of the dataset.
+
+Using the k-nearest neighbor algorithm we fit the historical data (or train the model) and predict the future.
