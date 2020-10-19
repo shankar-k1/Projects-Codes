@@ -1,0 +1,24 @@
+Docker Engine - Ubuntu (Community)
+
+Docker Engine - Ubuntu (Community) is the best way to install the Docker platform on Ubuntu Linux environments. Simplify provisioning and setup of Docker and accelerate your time to value in building and deploying container based applications. Docker Engine (Community) is supported on Ubuntu on x86_64, armhf, and s390x (IBM Z) architectures.
+
+Docker for Ubuntu is also available as an Enterprise subscription with software, support and certification that can be installed on bare metal or cloud infrastructure.
+Features and Benefits
+
+    Easy installation and setup of an optimized Docker environment for Ubuntu on bare metal servers and VMs.
+    Latest Docker platform version with built in orchestration (clustering and scheduling), runtime security, container networking, and volumes.
+    Available as a free download with a monthly Edge or quarterly Stable release with community support.
+    Also available for ARM 32 and IBM Z based platforms.
+
+Prerequisites
+
+To install Docker Engine (Community), you need the 64-bit version of one of these Ubuntu versions:
+
+    Artful 17.10 (Docker Engine (Community) 17.11 Edge and higher only)
+    Xenial 16.04 (LTS)
+    Trusty 14.04 (LTS)
+
+Get Docker Engine - Ubuntu (Community)
+
+For more details or alternative installation procedures, including how to install edge builds, see
+https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
