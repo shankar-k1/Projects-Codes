@@ -1,2 +1,2 @@
-# nvidia-rapids-ai-projects
-This repository mainly contains project based works about the implementation of Machine Learning Algorithm using python by means of cyml and cudf libraries.
+This is my official Github repository page in which i will post my implementation of projects and codes using different libraries.
+
